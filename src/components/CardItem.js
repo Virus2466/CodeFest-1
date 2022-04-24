@@ -9,7 +9,7 @@ return (
         <figure className='cards__item__pic-wrap' >
             <img
             className='cards__item__img'
-            alt='Travel Image'
+            alt='Children'
             src={props.src}
             />
         </figure>
